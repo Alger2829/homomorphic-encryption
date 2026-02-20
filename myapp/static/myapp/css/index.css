@@ -1,0 +1,34 @@
+.dropdown-item:hover {
+    background-color: skyblue !important;
+}
+
+/* Custom CSS for background gradient and card styling */
+.bg-primary-gradient {
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+}
+
+.bg-implementation-gradient {
+    background: linear-gradient(to right, #373B44, #4286f4);
+}
+
+.card {
+    max-width: 800px;
+    margin: 2rem auto;
+    border-radius: 15px;
+}
+
+.jumbotron {
+    padding: 4rem 0;
+}
+
+.jumbotron.bg-light {
+    background: #e3f2fd; /* Light blue background for the sections */
+}
+
+.text-left {
+    text-align: left;
+}
+
+.align-center {
+    text-align: center;
+}
